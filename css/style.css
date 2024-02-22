@@ -1,0 +1,68 @@
+body {
+    background-color: hsl(0, 0%, 100%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: #520052;
+    font-size: 350%;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h2 {
+    background-color: hsl(288, 100%, 18%);
+    color: hsl(0, 0%, 100%);
+    font-size: 200%;    
+    text-decoration: double;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+h3 {
+    background-color: rgb(184, 184, 184);
+    color:hsl(320, 100%, 18%);
+    font-size: 130%;
+    font-style: italic;
+}
+
+p {
+    background-color: hsl(200, 15%, 75%);
+    color: beige;
+}
+
+li {
+    background-color: rgb(223, 201, 231);
+}
+em {
+    color: hsl(256, 100%, 27%);
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: hsl(0, 100%, 31%);
+    font-weight:bold;
+    font-style: italic;
+}
+
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
+
+.honk-text1 {
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
